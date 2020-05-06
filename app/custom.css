@@ -64,3 +64,20 @@ body {
   background-color: #28a745; /* bootstrap .btn-success */
   border-color: #28a745; /* bootstrap .btn-success */
 }
+
+/*------CSS for the cart page starts------*/
+.cart-img
+{
+  max-width: 80px;
+  max-height: 80px;
+}
+.item-row *
+{
+  margin:auto;
+}
+.add-item-btn
+{
+  border:2px dashed seagreen;
+  display: inline-block;
+}
+/*------CSS for the cart page ends------*/
